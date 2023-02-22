@@ -9,11 +9,11 @@ import 'injection_container.dart';
 
 void main() async {
   await di.init();
-  runApp(const MyApp());
+  runApp(const MyHistoricalPriceApp());
 }
 
-class MyApp extends StatelessWidget {
-  const MyApp({super.key});
+class MyHistoricalPriceApp extends StatelessWidget {
+  const MyHistoricalPriceApp({super.key});
 
   @override
   Widget build(BuildContext context) {
