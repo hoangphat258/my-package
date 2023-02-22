@@ -1,0 +1,35 @@
+{
+  "symbol": "AAPL",
+  "historical": [
+    {
+      "date": "2023-01-31",
+      "open": 142.7,
+      "high": 144.34,
+      "low": 142.28,
+      "close": 144.29,
+      "adjClose": 144.29,
+      "volume": 60340323,
+      "unadjustedVolume": 60339047,
+      "change": 1.59,
+      "changePercent": 1.114,
+      "vwap": 143.63667,
+      "label": "January 31, 23",
+      "changeOverTime": 0.01114
+    },
+    {
+      "date": "2023-01-30",
+      "open": 144.955,
+      "high": 145.53,
+      "low": 142.85,
+      "close": 143,
+      "adjClose": 143,
+      "volume": 59370642,
+      "unadjustedVolume": 59365514,
+      "change": -1.955,
+      "changePercent": -1.349,
+      "vwap": 143.79333,
+      "label": "January 30, 23",
+      "changeOverTime": -0.01349
+    }
+  ]
+}
